@@ -1,2 +1,2 @@
 # chessEvaluationML
-A Machine Learning model to evaluate chess positions
+A Machine Learning model to evaluate chess positions. Test
